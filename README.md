@@ -104,7 +104,7 @@ Quickly shows which region contributes most
 Helps in expansion planning
 
 🖼️ 6. Dashboard Preview
-![Dashboard Preview]((https://github.com/Vishalvs2001/Sales-Data-Analysis-PowerBI/blob/main/Screenshot%20DASHBOARD.png))
+![Dashboard Preview](https://github.com/Vishalvs2001/Sales-Data-Analysis-PowerBI/blob/main/Screenshot%20DASHBOARD.png)
 
 
 
